@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 /**
- *
- *
+ * binary_tree_size - checks for size of tree
+ * @tree: points to root node
+ * Return: returns value
  */
 size_t binary_tree_size(const binary_tree_t *tree)
 {
